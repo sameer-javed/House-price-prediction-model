@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.7.4"
+  },
+  "scripts": {
+  "start:python": "python C:\\Users\\reals\\Desktop\\Bangaluru_house_price_model\\server\\flask_server.py",
+  "start:react": "npm run dev",
+  "start:both": "concurrently \"npm run start:python\" \"npm run start:react\""
+}
+  
+}
+
+
